@@ -1,2 +1,3 @@
-# welcome
-Welcome to Data Structures
+# Welcome to Data Structures
+
+Our course website is at http://ds.prof.ninja.
